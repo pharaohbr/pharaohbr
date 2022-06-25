@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @pharaohbr
+- 👋 Hi, I’m Jefferson Bianco
 - 👀 I’m interested in cloud computing, cybersecurity, and compliances
 - 🌱 I’m currently learning MS Azure and PenTesting
 - 💞️ I’m looking to collaborate on cloud, networking, and cybersecurity.
